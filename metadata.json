@@ -1,0 +1,5 @@
+{
+  "name": "教學時程產生器",
+  "description": "自動解析行事曆 PDF 並產生週次教學進度表，支援 Word 匯出與假日/考試自動標記。",
+  "requestFramePermissions": []
+}
